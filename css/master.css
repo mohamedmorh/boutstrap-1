@@ -1,0 +1,11 @@
+body{
+  background-color: #eee;
+}
+.container-fluid{
+    background-color: #ddd;
+}
+.row div{
+  background: #aaa;
+  border: 1px solid #888;
+  height: 100px;
+}
